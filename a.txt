@@ -1,0 +1,4 @@
+editando 
+meu
+arquivo
+.txt
